@@ -44,7 +44,7 @@ Extras: TypeScript, GraphQL
 
 El propósito de este repositorio es consolidar los conocimientos adquiridos, practicar habilidades tanto en frontend como en backend, y desarrollar aplicaciones completas y funcionales utilizando tecnologías modernas.
 
-##📝 Notas adicionales
+## 📝 Notas adicionales
 
 Cada carpeta contiene los ejercicios correspondientes a la parte específica del curso. El código está documentado y organizado para facilitar su comprensión y referencia futura.
 Cada carpeta contiene los ejercicios correspondientes a la parte específica del curso. El código está documentado y organizado para facilitar su comprensión y referencia futura.
